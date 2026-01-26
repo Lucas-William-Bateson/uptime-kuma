@@ -10,7 +10,6 @@ pull_requests = false
 name = "uptime-kuma"
 domain = "status.l3s.me"
 port = 3001
-compose_file = "compose.yaml"
 
 [schedule]
 cron = "0 1 * * 0"
