@@ -12,7 +12,7 @@ domain = "status.l3s.me"
 port = 3001
 
 [schedule]
-cron = "0 1 * * 0"
+cron = "0 0 1 * * 0 *"
 branch = "master"
 enabled = true
 timezone = "UTC"
